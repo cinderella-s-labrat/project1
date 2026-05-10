@@ -5,5 +5,4 @@ This is a project following APNA COLLEGE.
 Created by Kritika Raj.
 
 # Tutorial
-
 By APNA COLLEGE.
